@@ -48,11 +48,6 @@ python face_expression_recognition.py
 
 ---
 
-## 🖼️ Example Output  
-![Demo GIF](https://your-demo-image-link.gif)  
-
----
-
 ## 🎨 Customization  
 You can modify:  
 🔹 **Bounding box color** – Change `(255, 165, 0)` for different colors.  
